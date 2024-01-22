@@ -1,5 +1,5 @@
 # flutterLogin
-Flutter Aplication can obtain geolocation whit postresql connection to save data and GeoLocator library, authenticate is whit one field, this field is the plate of vehicle.
+Flutter Aplication can obtain geolocation whit postresql connection to save data and GeoLocator library, authenticate whit one field, this field is the plate of vehicle.
 
  STEPS FOR USE:
 

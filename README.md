@@ -3,7 +3,7 @@ Flutter Aplication can obtain geolocation whit postresql connection to save data
 
  STEPS FOR USE:
 
- 1.- Create a new Flutter aplication, can you see why can make this in the oficial documentation. https://docs.flutter.dev/ui
+ 1.- Create a new Flutter aplication, can you see why make this in the oficial documentation. https://docs.flutter.dev/ui
 
  2.- replace lib folder
 
